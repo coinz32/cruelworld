@@ -1,0 +1,2 @@
+CruelWorldsetup-1.bin filter=lfs diff=lfs merge=lfs -text
+CruelWorldsetup.exe filter=lfs diff=lfs merge=lfs -text
