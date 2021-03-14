@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-2">
+	<title>
+		Cruel World
+	</title>
+</head>
+<body background="" link="#000">
+	<br />
+	<h3 align="center">
+	<BR>
+		<font face="Lato" color="#404040" size="6">Cruel World</font>
+	</BR>
+	</h3>
+
+
+
+
+	<h3 align="right">
+		
+		<br><br><br>
+		<font face="cinzel" color="#404040" size="3">
+			<a href="#">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="https://www.youtube.com/channel/UCE8y4dZH0sIhNfbpMPmq1iw">Videos</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="HowToInstall.html">Download</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="#">Support me</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</font>
+	</h3>
+	<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+	<h1 align="center">
+		<font face="Lato" color="#404040" size="7">
+			ABOUT THE GAME
+		</font>
+	</h1>
+	<h3 align="center">
+		<font face="Lato" color="#000" size="5">
+			The Cruel World, <br>
+			ss
+
+		</font>
+	</h3>
+	<br />
+	<h3 align="center">
+	<a href="#">
+		<font face="Lato" color="#000">GET Cruel World</font>
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	
+	</h3>
+</body>
+</html>
